@@ -1,0 +1,1 @@
+The Weather App is a web application that provides users with real-time weather information. The application allows users to search for current weather conditions in any city around the world and view a detailed weather forecast for the upcoming days.
